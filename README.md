@@ -6,7 +6,7 @@ Naver cafe :
  * Client
  >RPG Maker XP 1.03v (RUBY 1.8.1)
  * Server
- >Visual Studio 2015 (C# .net 4.0)
+ >Visual Studio 2015 (C# .net 4.5)
  * DB Manager
  >Visual Studio 2015 (C# .net 4.5)
  * Database
